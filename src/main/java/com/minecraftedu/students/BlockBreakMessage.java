@@ -14,7 +14,7 @@ public class BlockBreakMessage {
 	}
 	
 	public String getCustomMessage() {
-		  String message = "My first minecraft mod";
+		  String message = "My first minecraft mod again";
 		  return message;
 	}
 
